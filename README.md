@@ -44,5 +44,7 @@ If you want to modify or enhance this Chrome extension, here are some tips:
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
+## Screenshot
+
 ![Image](Screenshot.jpg)
 
