@@ -16,13 +16,15 @@ To use this Chrome extension, follow the steps below:
 Once the Chrome extension is installed, you can use it by following these steps:
 
 1. Open a new tab in Google Chrome.
-2. You will see an input field with the placeholder "Type Anything!".
-3. Enter any text or URL in the input field and click the "SAVE" button to save it.
-4. The saved entry will appear as a list item below the input field.
-5. If you enter a valid URL starting with "http://" or "https://", the list item will be a clickable link.
-6. To save the current tab's URL, click the "SAVE TAB" button.
-7. To delete all saved entries, double-click the "DELETE ALL" button.
-8. The saved entries will persist even if you close the browser, thanks to local storage.
+2. Click on the extensions tab. 
+3. Select Browser Notes.
+4. You will see an input field with the placeholder "Type Anything!".
+5. Enter any text or URL in the input field and click the "SAVE" button to save it.
+6. The saved entry will appear as a list item below the input field.
+7. If you enter a valid URL starting with "http://" or "https://", the list item will be a clickable link.
+8. To save the current tab's URL, click the "SAVE TAB" button.
+9. To delete all saved entries, double-click the "DELETE ALL" button.
+10. The saved entries will persist even if you close the browser, thanks to local storage.
 
 ## Files
 
