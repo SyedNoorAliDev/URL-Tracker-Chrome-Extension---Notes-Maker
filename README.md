@@ -1,4 +1,4 @@
-# URL-Tracker-Chrome-Extension
+# URL-Tracker-Chrome-Extension-&-Notes-Maker
 
 This repository contains the code for a simple Chrome extension that allows users to save and manage a list of URLs and text entries. It provides functionality to save current tabs, save user-entered text, and delete all saved entries.
 
